@@ -1,5 +1,5 @@
 Hi, I’m @Kagame001
-I’m interested in Technology,Python and C programming,Binaary Exploitation.
+I’m interested in Technology,Python and C programming,Binary Exploitation.
 I’m currently learning Binary Exploitation.
 How to reach me at twitter @KagameO01
 
